@@ -62,6 +62,7 @@ Huruf yang akan dihitung: i
 
 Output:
 Jumlah huruf i pada kalimat : 5
+### Video: Jelaskan alur program yang dibuat. Jika anda disuruh mengembangkan program, bagaimana cara membandingkan huruf uppercase dan lowercase? Adakah library yang dapat digunakan?
 
 
 
